@@ -1,5 +1,5 @@
 <?php
 
-echo "Teste do arquivo"
+echo "Ola mundo"
 
 ?>
